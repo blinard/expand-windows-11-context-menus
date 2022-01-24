@@ -18,4 +18,4 @@ Either option that you use above, you'll need to follow it with running the Rest
 If you'd like to go back to the Windows 11 default (condensed) context menus simply run the Reduce-ContextMenus.ps1 script or import the dotreg\Reduce-ContextMenus.reg. This change takes effect immediately (without explorer restart).
 
 
-If you found this helpful, please share it with your friends who might also find it helpful... and consider [buying me a coffee](https://www.buymeacoffee.com/bradlinard) if you like. :D GBU
+If you found this helpful, please share it with your friends who might also find it helpful... consider giving this repo a :star: and [buying me a :coffee:](https://www.buymeacoffee.com/bradlinard) if you like. :grin: GBU :heart:
