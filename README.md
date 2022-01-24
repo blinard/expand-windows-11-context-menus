@@ -10,7 +10,7 @@ to this:
 
 Run the Expand-ContextMenus.ps1 script
 OR
-Double-click the dotreg\Expand-ContextMenus.reg to import the necessary registry settings. Note: You'll need to appove/confirm a warning message [like this](./images/import-warning.png) about importing unknown scripts.
+Double-click the dotreg\Expand-ContextMenus.reg to import the necessary registry settings. (Note: When importing the .reg file, you'll need to appove/confirm a warning message [like this](./images/import-warning.png) about importing unknown scripts.)
 
 Either option that you use above, you'll need to follow it with running the Restart-ExplorerProcess.ps1 script to get the change to show up.
 
